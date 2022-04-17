@@ -1,0 +1,1 @@
+adb shell monkey -p com.bjcsxq.chat.carfriend --ignore-crashes --ignore-timeouts --throttle 100 --pct-touch 50 --pct-motion 50 -v -v 1000 > C:\Users\gkxox\Desktop\test.txt 2>&1 &

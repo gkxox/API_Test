@@ -1,0 +1,1187 @@
+2022-04-16 01:32:56,329 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 01:32:56 *****
+2022-04-16 01:32:56,329 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:32:56,784 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:32:56,784 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 01:32:56,816 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:32:56 *****
+2022-04-16 01:32:56,831 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:32:56 *****
+2022-04-16 01:33:14,001 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 01:33:14 *****
+2022-04-16 01:33:14,012 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:33:14,405 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:33:14,405 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 01:33:14,420 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:33:14 *****
+2022-04-16 01:33:14,451 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:33:14 *****
+2022-04-16 01:34:21,900 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 01:34:21 *****
+2022-04-16 01:34:21,915 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:34:22,292 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:34:22,292 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 01:34:22,324 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:34:22 *****
+2022-04-16 01:34:22,341 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:34:22 *****
+2022-04-16 01:34:49,408 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 01:34:49 *****
+2022-04-16 01:34:49,408 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:34:49,848 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:34:49,879 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:34:49 *****
+2022-04-16 01:34:49,895 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:34:49 *****
+2022-04-16 01:35:28,362 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 01:35:28 *****
+2022-04-16 01:35:28,362 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:35:28,707 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:35:28,723 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:35:28 *****
+2022-04-16 01:35:28,738 - test_employ_management.py[line:60] - INFO: 正在执行添加员工用例
+2022-04-16 01:35:29,162 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 01:35:29,187 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 01:35:29 *****
+2022-04-16 19:49:28,376 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:49:28 *****
+2022-04-16 19:49:28,376 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:49:30,058 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 19:49:30,090 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:49:30 *****
+2022-04-16 19:50:44,981 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:50:44 *****
+2022-04-16 19:50:44,981 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:50:45,626 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 19:50:45,626 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 19:50:45,657 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:50:45 *****
+2022-04-16 19:51:03,643 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:51:03 *****
+2022-04-16 19:51:03,643 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:51:03,768 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:51:03 *****
+2022-04-16 19:51:48,456 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:51:48 *****
+2022-04-16 19:51:48,472 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:51:48,723 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:51:48 *****
+2022-04-16 19:52:18,465 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:52:18 *****
+2022-04-16 19:52:18,465 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:52:19,045 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:52:19,061 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:52:19,077 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:52:19 *****
+2022-04-16 19:53:18,436 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:53:18 *****
+2022-04-16 19:53:18,468 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:53:18 *****
+2022-04-16 19:53:18,468 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:53:19,049 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:53:19,065 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:53:19,080 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:53:19 *****
+2022-04-16 19:54:33,838 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:54:33 *****
+2022-04-16 19:54:33,869 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:54:33 *****
+2022-04-16 19:54:33,869 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:54:34,623 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:54:34,639 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:54:34,654 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:54:34 *****
+2022-04-16 19:54:34,670 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:54:34 *****
+2022-04-16 19:55:11,491 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:55:11 *****
+2022-04-16 19:55:11,521 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:11 *****
+2022-04-16 19:55:11,521 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:55:12,195 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:55:12,212 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:55:12,227 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:12 *****
+2022-04-16 19:55:12,243 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:12 *****
+2022-04-16 19:55:58,002 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:55:58 *****
+2022-04-16 19:55:58,017 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:58 *****
+2022-04-16 19:55:58,017 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:55:59,508 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:55:59,524 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:55:59,540 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:59 *****
+2022-04-16 19:55:59,556 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:55:59 *****
+2022-04-16 19:56:09,569 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:56:09 *****
+2022-04-16 19:56:09,600 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:09 *****
+2022-04-16 19:56:09,600 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:56:10,448 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6152,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:56:10,464 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:56:10,479 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:10 *****
+2022-04-16 19:56:10,495 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:10 *****
+2022-04-16 19:56:24,857 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:56:24 *****
+2022-04-16 19:56:24,889 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:24 *****
+2022-04-16 19:56:24,889 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:56:25,862 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6153,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:56:25,877 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:56:25,893 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:25 *****
+2022-04-16 19:56:25,909 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:25 *****
+2022-04-16 19:56:59,154 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:56:59 *****
+2022-04-16 19:56:59,154 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:56:59,829 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6153,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:56:59,844 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:56:59,860 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:59 *****
+2022-04-16 19:56:59,882 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:59 *****
+2022-04-16 19:56:59,907 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:56:59 *****
+2022-04-16 19:57:34,306 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 19:57:34 *****
+2022-04-16 19:57:34,306 - test_employ_management.py[line:60] - INFO: 正在执行查询员工用例
+2022-04-16 19:57:34,965 - test_employ_management.py[line:65] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6153,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 19:57:34,981 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 19:57:35,006 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:57:35 *****
+2022-04-16 19:57:35,012 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:57:35 *****
+2022-04-16 19:57:35,044 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 19:57:35 *****
+2022-04-16 20:06:52,440 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:06:52 *****
+2022-04-16 20:06:52,440 - test_employ_management.py[line:62] - INFO: 正在执行查询员工用例
+2022-04-16 20:06:52,880 - test_employ_management.py[line:67] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6163,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:06:52,895 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:06:52,911 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:06:52 *****
+2022-04-16 20:06:52,927 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:06:52 *****
+2022-04-16 20:06:52,958 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:06:52 *****
+2022-04-16 20:08:07,951 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:08:07 *****
+2022-04-16 20:08:07,951 - test_employ_management.py[line:62] - INFO: 正在执行查询员工用例
+2022-04-16 20:08:08,515 - test_employ_management.py[line:67] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6162,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:08:08,531 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:08:08,547 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:08 *****
+2022-04-16 20:08:08,562 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:08 *****
+2022-04-16 20:08:08,586 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:08 *****
+2022-04-16 20:08:57,780 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:08:57 *****
+2022-04-16 20:08:57,780 - test_employ_management.py[line:62] - INFO: 正在执行查询员工用例
+2022-04-16 20:08:58,392 - test_employ_management.py[line:67] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6162,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:08:58,408 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:08:58,429 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:58 *****
+2022-04-16 20:08:58,440 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:58 *****
+2022-04-16 20:08:58,459 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:08:58 *****
+2022-04-16 20:09:12,308 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:09:12 *****
+2022-04-16 20:09:12,308 - test_employ_management.py[line:63] - INFO: 正在执行查询员工用例
+2022-04-16 20:09:12,873 - test_employ_management.py[line:68] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6162,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:09:12,889 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:09:12,904 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:09:12 *****
+2022-04-16 20:09:12,920 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:09:12 *****
+2022-04-16 20:09:12,936 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:09:12 *****
+2022-04-16 20:42:04,075 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:42:04 *****
+2022-04-16 20:42:04,091 - test_employ_management.py[line:63] - INFO: 正在执行查询员工用例
+2022-04-16 20:42:04,531 - test_employ_management.py[line:68] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6175,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:42:04,546 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:42:04,562 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:42:04 *****
+2022-04-16 20:42:04,562 - test_employ_management.py[line:63] - INFO: 正在执行查询员工用例
+2022-04-16 20:42:04,922 - test_employ_management.py[line:68] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 20:42:04,922 - api.py[line:177] - INFO: 用例断言失败,预期值：10001,实际值：99999
+2022-04-16 20:42:04,938 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:42:04 *****
+2022-04-16 20:42:04,954 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:42:04 *****
+2022-04-16 20:43:39,510 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:43:39 *****
+2022-04-16 20:43:39,526 - test_employ_management.py[line:55] - INFO: 正在执行查询员工用例
+2022-04-16 20:43:39,966 - test_employ_management.py[line:60] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6175,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:43:39,981 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:43:39,997 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:43:39 *****
+2022-04-16 20:43:39,997 - test_employ_management.py[line:55] - INFO: 正在执行查询员工用例
+2022-04-16 20:43:40,358 - test_employ_management.py[line:60] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 20:43:40,358 - api.py[line:177] - INFO: 用例断言失败,预期值：10001,实际值：99999
+2022-04-16 20:43:40,390 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:43:40 *****
+2022-04-16 20:45:01,872 - test_employ_management.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 20:45:01 *****
+2022-04-16 20:45:01,887 - test_employ_management.py[line:55] - INFO: 正在执行查询员工用例
+2022-04-16 20:45:02,296 - test_employ_management.py[line:60] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"total":6177,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"12345422","mobile":"13800001235","username":"张三","password":"9d651808e9dad2cf192f10f9b8ad56c3","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"623456","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514206613127413760","mobile":"13659965255","username":"lisi3","password":"e98ebfdfadc022a64d7b217c6be3fe4b","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":3,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208105116844032","mobile":"18910609981","username":"哈132","password":"1ffcd5806c9210831a9bfb76d3d7f2c8","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"0364228","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208192085737472","mobile":"13659965258","username":"lisi3","password":"060ce23b159b34dae5473700af270036","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9658955","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514208923928870912","mobile":"18612116532","username":"Zs12","password":"793e21f2c263bbff5d2451287737f3c2","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"54687","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210352013885440","mobile":"13912345681","username":"Andy123","password":"462f19bac88a855f549b7e9f0be207ca","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1514210700690571264","mobile":"15269871446","username":"小小小","password":"115ca0f78354c7675d867e9bd599c856","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"13065478851","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+2022-04-16 20:45:02,312 - api.py[line:163] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 20:45:02,328 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:45:02 *****
+2022-04-16 20:45:02,328 - test_employ_management.py[line:55] - INFO: 正在执行查询员工用例
+2022-04-16 20:45:02,704 - test_employ_management.py[line:60] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 20:45:02,704 - api.py[line:163] - INFO: 用例断言成功,预期值：99999,实际值：99999
+2022-04-16 20:45:02,720 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:45:02 *****
+2022-04-16 20:45:02,720 - test_employ_management.py[line:55] - INFO: 正在执行查询员工用例
+2022-04-16 20:45:02,862 - test_employ_management.py[line:60] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 20:45:02,862 - api.py[line:163] - INFO: 用例断言成功,预期值：99999,实际值：99999
+2022-04-16 20:45:02,893 - test_employ_management.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 20:45:02 *****
+2022-04-16 22:51:02,988 - test_demo1.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 22:51:02 *****
+2022-04-16 22:51:03,004 - test_demo1.py[line:55] - INFO: 正在执行test1用例
+2022-04-16 22:51:03,035 - test_demo1.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 22:51:03 *****
+2022-04-16 22:51:28,191 - test_demo1.py[line:36] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 22:51:28 *****
+2022-04-16 22:51:28,191 - test_demo1.py[line:55] - INFO: 正在执行test1用例
+2022-04-16 22:51:28,884 - test_demo1.py[line:60] - INFO: 用例执行成功，请求的结果为{
+  "data": {
+    "PostsInfo": {
+      "ID": "2022040002709",
+      "USERID": 458992,
+      "CLASSIFYID": 6,
+      "JIAXIAO": "",
+      "CREATEDATE": "2022/04/13 11:56:01",
+      "CONTENT": "温馨提示：\n驾考题库已经适配4月1日最新交规啦！请尽快更新至最新题库版本！\n更新方式：\n①点击【学车】-【驾考题库】弹窗提示更新\n②点击【我的】-【设置】-【检查更新】更新至10.0.2版本\n③卸载APP重新安装10.0.2版本",
+      "COORD": "",
+      "GOODNUM": 14,
+      "REPLYNUM": 10,
+      "CLIENT": "",
+      "TYPE": "1",
+      "ISELITE": "0",
+      "ISPROHIBIT": "0",
+      "ISSHOW": "0",
+      "JIAXIAONAME": "",
+      "CREATEDATESTR": "3天前",
+      "NICKNAME": "学车不官方",
+      "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/moren/touxiang-moren.png",
+      "ISPRAISE": "0",
+      "Imgs": null,
+      "ImgsOss": null,
+      "IMGARRAY": [
+        "http://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/2022/04/75ab0014-7352-4a53-a7bd-9b72dde98b88.jpg",
+        "http://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/2022/04/95a13468-28bd-4c38-8614-5af5cb96f637.jpg",
+        "http://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/2022/04/f85a93e2-39f2-4a56-9332-3aaae8a88fd7.jpg"
+      ],
+      "IMGLIST": "",
+      "MONTH": null,
+      "DAY": null,
+      "ORIGIN": null,
+      "DEVICE": null,
+      "LASTTIME": "2022/04/16 18:13:20",
+      "LASTTIMESTAMP": null,
+      "ISOFFICIAL": "1",
+      "ISTOP": "1",
+      "ISHOT": "1",
+      "ISCOMMENT": "0",
+      "grade": null
+    },
+    "PraiseList": [
+      {
+        "ID": 2499169,
+        "POSTSID": "2022040002709",
+        "USERID": 1473423,
+        "CREATEDATE": "2022/04/16 13:19:31",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2019/02/28/5809c752-e669-444d-81e4-16f93585dc8d.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2498375,
+        "POSTSID": "2022040002709",
+        "USERID": 2523685,
+        "CREATEDATE": "2022/04/15 12:08:04",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/04/12/542e0961-d163-41b0-a603-88b7bdae5936.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2498227,
+        "POSTSID": "2022040002709",
+        "USERID": 2429262,
+        "CREATEDATE": "2022/04/15 08:19:28",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/04/03/92c8c99c-0c2d-46d5-b140-cb3cb1bf6aef.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497911,
+        "POSTSID": "2022040002709",
+        "USERID": 2491649,
+        "CREATEDATE": "2022/04/14 19:33:09",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erIBYBQl9STN5MXmKwRpWDWsdRvBwb28sN6vHmxKibcC2wNS9AspFaFpDRdBhsVl7amYp1VuqB4XGw/132",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497860,
+        "POSTSID": "2022040002709",
+        "USERID": 2481206,
+        "CREATEDATE": "2022/04/14 17:57:09",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/02/26/be90d4f7-cf58-497f-a157-5cd0aaf4432f.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497771,
+        "POSTSID": "2022040002709",
+        "USERID": 2587309,
+        "CREATEDATE": "2022/04/14 15:55:01",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/o6zQjQpnQZxPnicpbAx2u8c4RcQpyxpefktuXhkfiaO9ZR5RiaW7YBWLLYCBiaYO1Im7zQIblcZ7icYUg3DydcClBdw/132",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497506,
+        "POSTSID": "2022040002709",
+        "USERID": 2534466,
+        "CREATEDATE": "2022/04/14 08:18:15",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83er6cCXx73ZuuWD9nAJ5VZq6sZUibcJRLz8BjyW3iaJZ9wouTzPSRGb1rShIlfwodWa0oeibNY6BVn6VA/132",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497299,
+        "POSTSID": "2022040002709",
+        "USERID": 2563353,
+        "CREATEDATE": "2022/04/13 22:56:28",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/04/05/8741c54e-5095-4fe1-92b1-85b271075ca4.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497283,
+        "POSTSID": "2022040002709",
+        "USERID": 2498579,
+        "CREATEDATE": "2022/04/13 22:26:55",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/I9RU17kxvwlM65ustRoficlpQL1B8IVqN8aclILFZNWk6nnHckhZZ5VibfVHcHiajexWohy4VkkxCUYLpaVCx5pfw/132",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497242,
+        "POSTSID": "2022040002709",
+        "USERID": 2567263,
+        "CREATEDATE": "2022/04/13 21:01:09",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/03/28/fb6b5cf3-f7a0-4925-a347-97f21478d44f.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2497024,
+        "POSTSID": "2022040002709",
+        "USERID": 2590877,
+        "CREATEDATE": "2022/04/13 15:37:47",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/moren/touxiang-moren.png",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2496937,
+        "POSTSID": "2022040002709",
+        "USERID": 2440654,
+        "CREATEDATE": "2022/04/13 13:52:33",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2021/10/20/9def422e-7d9e-4fb1-b678-1207e9e771d3.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2496845,
+        "POSTSID": "2022040002709",
+        "USERID": 2589949,
+        "CREATEDATE": "2022/04/13 12:03:01",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqIHn5LSAeqsL158rbetHiavlL2rWSicrMbrQ622XccHiaLNJRicUwK1UAOmNhkpa7YMdtGR8yuLnh4gQ/132",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      },
+      {
+        "ID": 2496840,
+        "POSTSID": "2022040002709",
+        "USERID": 2481576,
+        "CREATEDATE": "2022/04/13 11:59:27",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2021/12/21/705886f8-e5ee-466e-b0b7-d6957e9d5113.jpg",
+        "CLIENT": "",
+        "REPLYID": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0"
+      }
+    ],
+    "RelpyList": [
+      {
+        "ID": 4611115,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2045667,
+        "CONTENT": "😶",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/16 18:13:20",
+        "CREATEDATESTR": "4小时前",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "叶落長安、AdolfXue",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/03/08/8dbbf699-37cc-4944-ae6e-b2b0ff4f7ce2.jpg",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "74级主宰,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/zhizun.png"
+      },
+      {
+        "ID": 4610643,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2511378,
+        "CONTENT": "山河似锦，岁月更新",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/16 07:38:24",
+        "CREATEDATESTR": "15小时前",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "姚鋐嵘",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/03/03/8b27eec2-c922-4d8a-8515-48bcb51f03d6.jpg",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "15级畅游,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/mingzui.png"
+      },
+      {
+        "ID": 4610432,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2445893,
+        "CONTENT": "为啥更新完了是10.0.2版本",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/15 21:26:18",
+        "CREATEDATESTR": "昨天 21:26",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "锦带",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/04/05/0115b01d-30f5-46e4-b707-8743ebc388a9.jpg",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "6级冒泡,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/maopao.png"
+      },
+      {
+        "ID": 4609409,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 4609403,
+        "USERID": 2255249,
+        "CONTENT": "我也是",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/15 00:36:25",
+        "CREATEDATESTR": "昨天 00:36",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "2589828",
+        "NICKNAME": "大牙子",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJrxn4vvMyyiaco6QX5uEDVY2mcHbqMhpQUxsRGypUKn14ONqerfpvtbFJKxqtbtYSAwFyhLIPUPJw/132",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "3级冒泡,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/maopao.png"
+      },
+      {
+        "ID": 4609403,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2589828,
+        "CONTENT": "为啥我更新完了是10.0.1 ",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/15 00:04:25",
+        "CREATEDATESTR": "昨天 00:04",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "徐学习Shawn",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLwsCeOicGtiaWK6NLAAyk4EG8I58X0l8SYibsx6sg49ZXQcHKibQPNzQbuYqBNdpa9g0k9Wo2ricPBiclw/132",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 1,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "16级畅游,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/mingzui.png"
+      },
+      {
+        "ID": 4608740,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2491649,
+        "CONTENT": "我是打开后自己提示升级的，我点了自己就升级啦！",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/14 15:16:35",
+        "CREATEDATESTR": "15:16",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "觉醒",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erIBYBQl9STN5MXmKwRpWDWsdRvBwb28sN6vHmxKibcC2wNS9AspFaFpDRdBhsVl7amYp1VuqB4XGw/132",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "81级混沌,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/zhizun.png"
+      },
+      {
+        "ID": 4608189,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2590309,
+        "CONTENT": "只能在手机里刷题吗？怎么使用电脑用软件呢？",
+        "TYPE": "0",
+        "CLIENT": "1",
+        "CREATEDATE": "2022/04/14 08:28:09",
+        "CREATEDATESTR": "08:28",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "能思",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/gXkdul55hQJ5ahqgJkpnES10pP5jyv1y8qp4Mj3QwSeSkoicZwhoKYYG8kfebkXI0WlvqDYvfqRRP3tS0icxVVmw/132",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "3级冒泡,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/maopao.png"
+      },
+      {
+        "ID": 4607777,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 943337,
+        "CONTENT": "怎么更新啊",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/13 21:30:44",
+        "CREATEDATESTR": "2022-04-13",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "奋斗的年华",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/moren/touxiang-nan.png",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "5级冒泡,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/maopao.png"
+      },
+      {
+        "ID": 4607291,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 1813739,
+        "CONTENT": "同问自己不提示更新怎么更新",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/13 14:32:35",
+        "CREATEDATESTR": "2022-04-13",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "WYH925",
+        "HEADURL": "http://xcb-headimage-online.oss-cn-beijing.aliyuncs.com/2022/03/31/ec170401-f596-4710-8c2b-354733c843c6.jpg",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 1,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "14级畅游,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/mingzui.png"
+      },
+      {
+        "ID": 4607237,
+        "POSTSID": "2022040002709",
+        "COMMENTID": 0,
+        "USERID": 2586571,
+        "CONTENT": "怎么更新呀",
+        "TYPE": "0",
+        "CLIENT": "0",
+        "CREATEDATE": "2022/04/13 14:04:53",
+        "CREATEDATESTR": "2022-04-13",
+        "ISSHOW": "0",
+        "REVIEWEDUSERID": "458992",
+        "NICKNAME": "陈曦律师",
+        "HEADURL": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJDp4Z8xRnF53VxqgESOxKlhSeHR8HiaBubjlTXrvfveetRebBmnQ7slk0SZG3sHHbv9ckw6QusInw/132",
+        "RENICKNAME": "",
+        "DEVICE": "",
+        "ISOFFICIAL": "0",
+        "GOODNUM": 0,
+        "replyList": null,
+        "ImgsOss": "",
+        "ISPRAISE": "0",
+        "IMGLIST": "",
+        "REPLYID": "",
+        "grade": "3级冒泡,https://xcb-jkq-online.oss-cn-beijing.aliyuncs.com/grade/maopao.png"
+      }
+    ]
+  },
+  "code": 0,
+  "message": "",
+  "type": 0
+}
+2022-04-16 22:51:28,900 - api.py[line:163] - INFO: 用例断言成功,预期值：0,实际值：0
+2022-04-16 22:51:28,931 - test_demo1.py[line:44] - INFO: ***** 结束执行测试用例，开始时间为：2022-04-16 22:51:28 *****
+2022-04-16 23:07:21,594 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:07:21 *****
+2022-04-16 23:07:21,594 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:07:21,971 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:07:21,971 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:07:22,002 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:07:22 *****
+2022-04-16 23:07:22,002 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:07:22,363 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:07:22,363 - api.py[line:177] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:07:22,379 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:07:22 *****
+2022-04-16 23:07:59,374 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:07:59 *****
+2022-04-16 23:07:59,374 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:07:59,767 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:07:59,767 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:07:59,782 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:07:59 *****
+2022-04-16 23:07:59,798 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:08:00,159 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:08:00,159 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:08:00,190 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:08:00 *****
+2022-04-16 23:21:28,811 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:21:28 *****
+2022-04-16 23:21:28,811 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:21:29,141 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:21:29,141 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:21:29,172 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:21:29 *****
+2022-04-16 23:21:29,172 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:21:29,549 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:21:29,549 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:21:29,580 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:21:29 *****
+2022-04-16 23:21:29,580 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:21:29,784 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:21:29 *****
+2022-04-16 23:22:23,066 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:22:23 *****
+2022-04-16 23:22:23,082 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:22:23,525 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:22:23,525 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:22:23,538 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:22:23 *****
+2022-04-16 23:22:23,554 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:22:23,930 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:22:23,930 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:22:23,953 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:22:23 *****
+2022-04-16 23:22:23,953 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:22:24,166 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:22:24 *****
+2022-04-16 23:23:30,717 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:23:30 *****
+2022-04-16 23:23:30,717 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:23:31,062 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:23:31,062 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:23:31,078 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:23:31 *****
+2022-04-16 23:23:31,096 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:23:31,518 - test_all.py[line:52] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:23:31,518 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:23:31,534 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:23:31 *****
+2022-04-16 23:23:31,534 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:23:31,722 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:23:31 *****
+2022-04-16 23:24:44,621 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:24:44 *****
+2022-04-16 23:24:44,621 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:24:45,044 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:24:45,044 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:24:45,061 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:24:45 *****
+2022-04-16 23:24:45,061 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:24:45,454 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:24:45,454 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:24:45,481 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:24:45 *****
+2022-04-16 23:24:45,485 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:24:45,689 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:24:45 *****
+2022-04-16 23:25:09,619 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:25:09 *****
+2022-04-16 23:25:09,619 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:25:10,030 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:25:10,030 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:25:10,058 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:25:10 *****
+2022-04-16 23:25:10,058 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:25:10,434 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:25:10,434 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:25:10,450 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:25:10 *****
+2022-04-16 23:25:10,466 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:25:10,670 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:25:10 *****
+2022-04-16 23:27:03,197 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:03 *****
+2022-04-16 23:27:03,213 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:03,480 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:27:03,480 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:27:03,527 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:03 *****
+2022-04-16 23:27:03,527 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:03,888 - test_all.py[line:53] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:27:03,888 - api.py[line:163] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:27:03,920 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:03 *****
+2022-04-16 23:27:03,920 - test_all.py[line:47] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:04,154 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:04 *****
+2022-04-16 23:27:38,415 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:38 *****
+2022-04-16 23:27:38,415 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:38,812 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:27:38,812 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:27:38,840 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:38 *****
+2022-04-16 23:27:38,840 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:39,216 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:27:39,216 - api.py[line:177] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:27:39,248 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:39 *****
+2022-04-16 23:27:39,248 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:27:39,452 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:27:39 *****
+2022-04-16 23:28:18,050 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:18 *****
+2022-04-16 23:28:18,065 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:18,443 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:18,443 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:28:18,474 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:18 *****
+2022-04-16 23:28:18,474 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:18,851 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:18,851 - api.py[line:177] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:28:18,894 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:18 *****
+2022-04-16 23:28:18,895 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:19,244 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:19,244 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:28:19,259 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:19 *****
+2022-04-16 23:28:39,619 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:39 *****
+2022-04-16 23:28:39,619 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:40,046 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:40,060 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:28:40,075 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:40 *****
+2022-04-16 23:28:40,091 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:40,453 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:40,453 - api.py[line:177] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:28:40,484 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:40 *****
+2022-04-16 23:28:40,484 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:28:40,862 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:28:40,862 - api.py[line:177] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:28:40,893 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:28:40 *****
+2022-04-16 23:29:34,994 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:29:34 *****
+2022-04-16 23:29:35,010 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:29:35,450 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:29:35,450 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:29:35,480 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:29:35 *****
+2022-04-16 23:29:35,482 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:29:35,858 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:29:35,858 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:29:35,880 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:29:35 *****
+2022-04-16 23:29:35,880 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:29:36,266 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:29:36,266 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:29:36,283 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:29:36 *****
+2022-04-16 23:30:05,718 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:05 *****
+2022-04-16 23:30:05,718 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:05,969 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:05,969 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:30:06,001 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:06 *****
+2022-04-16 23:30:06,016 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:06,158 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:06,158 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:30:06,189 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:06 *****
+2022-04-16 23:30:06,189 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:06,330 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:30:06,330 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:30:06,362 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:06 *****
+2022-04-16 23:30:21,860 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:21 *****
+2022-04-16 23:30:21,860 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:22,253 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:22,253 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:30:22,278 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:22 *****
+2022-04-16 23:30:22,278 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:22,645 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:22,645 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:30:22,660 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:22 *****
+2022-04-16 23:30:22,660 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:23,069 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:30:23,069 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:30:23,085 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:23 *****
+2022-04-16 23:30:33,228 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:33 *****
+2022-04-16 23:30:33,228 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:33,605 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:33,621 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:30:33,652 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:33 *****
+2022-04-16 23:30:33,652 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:34,014 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:30:34,014 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:30:34,045 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:34 *****
+2022-04-16 23:30:34,045 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:30:34,265 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:30:34 *****
+2022-04-16 23:31:55,502 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:31:55 *****
+2022-04-16 23:31:55,515 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:31:55,943 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:31:55,943 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:31:55,974 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:31:55 *****
+2022-04-16 23:31:55,974 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:31:56,351 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:31:56,351 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:31:56,366 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:31:56 *****
+2022-04-16 23:31:56,366 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:31:56,758 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:31:56,758 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:31:56,789 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:31:56 *****
+2022-04-16 23:32:05,992 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:05 *****
+2022-04-16 23:32:05,992 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:06,385 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:32:06,385 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:32:06,416 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:06 *****
+2022-04-16 23:32:06,416 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:06,792 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:32:06,792 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:32:06,824 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:06 *****
+2022-04-16 23:32:06,824 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:07,200 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:32:07,216 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:32:07,238 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:07 *****
+2022-04-16 23:32:39,092 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:39 *****
+2022-04-16 23:32:39,092 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:39,563 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:32:39,563 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:32:39,601 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:39 *****
+2022-04-16 23:32:39,601 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:39,972 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:32:39,972 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:32:39,987 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:39 *****
+2022-04-16 23:32:39,987 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:32:40,380 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:32:40,380 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:32:40,412 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:32:40 *****
+2022-04-16 23:33:54,105 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:33:54 *****
+2022-04-16 23:33:54,121 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:33:54,309 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:33:54,309 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:33:54,340 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:33:54 *****
+2022-04-16 23:33:54,340 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:33:54,482 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:33:54,482 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:33:54,499 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:33:54 *****
+2022-04-16 23:33:54,499 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:33:54,670 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:33:54,670 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:33:54,685 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:33:54 *****
+2022-04-16 23:34:10,835 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:10 *****
+2022-04-16 23:34:10,835 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:11,317 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:34:11,317 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:34:11,349 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:11 *****
+2022-04-16 23:34:11,349 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:11,725 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:34:11,725 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:34:11,757 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:11 *****
+2022-04-16 23:34:11,757 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:12,137 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:34:12,137 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:34:12,165 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:12 *****
+2022-04-16 23:34:38,329 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:38 *****
+2022-04-16 23:34:38,329 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:38,769 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:34:38,769 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:34:38,793 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:38 *****
+2022-04-16 23:34:38,800 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:39,146 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:34:39,146 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:34:39,161 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:39 *****
+2022-04-16 23:34:39,161 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:34:39,475 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:34:39,475 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:34:39,507 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:34:39 *****
+2022-04-16 23:35:05,393 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:05 *****
+2022-04-16 23:35:05,409 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:05,801 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:05,801 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:35:05,817 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:05 *****
+2022-04-16 23:35:05,833 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:06,209 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:06,209 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:35:06,225 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:06 *****
+2022-04-16 23:35:06,241 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:06,602 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:06,602 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:35:06,617 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:06 *****
+2022-04-16 23:35:16,589 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:16 *****
+2022-04-16 23:35:16,589 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:16,890 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:16 *****
+2022-04-16 23:35:16,890 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:17,076 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:17 *****
+2022-04-16 23:35:17,076 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:17,280 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:17 *****
+2022-04-16 23:35:31,335 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:31 *****
+2022-04-16 23:35:31,335 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:31,696 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:31,696 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:35:31,728 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:31 *****
+2022-04-16 23:35:31,728 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:32,109 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:32,109 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:35:32,136 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:32 *****
+2022-04-16 23:35:32,136 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:35:32,529 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:35:32,529 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:35:32,544 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:35:32 *****
+2022-04-16 23:36:27,942 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:27 *****
+2022-04-16 23:36:27,958 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:28,130 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:28 *****
+2022-04-16 23:36:28,148 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:28,377 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:28 *****
+2022-04-16 23:36:28,381 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:28,555 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:28 *****
+2022-04-16 23:36:46,406 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:46 *****
+2022-04-16 23:36:46,406 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:46,682 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:46 *****
+2022-04-16 23:36:46,689 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:46,892 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:46 *****
+2022-04-16 23:36:46,897 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:47,097 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:47 *****
+2022-04-16 23:36:58,246 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:58 *****
+2022-04-16 23:36:58,246 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:58,639 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:36:58,639 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:36:58,686 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:58 *****
+2022-04-16 23:36:58,690 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:59,048 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:36:59,048 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:36:59,079 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:59 *****
+2022-04-16 23:36:59,079 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:36:59,457 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:36:59,457 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:36:59,488 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:36:59 *****
+2022-04-16 23:38:31,704 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:31 *****
+2022-04-16 23:38:31,720 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:32,128 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:32,144 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:38:32,175 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:32 *****
+2022-04-16 23:38:32,181 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:32,442 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:32,442 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:38:32,458 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:32 *****
+2022-04-16 23:38:32,474 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:32,809 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:32,809 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:38:32,836 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:32 *****
+2022-04-16 23:38:50,068 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:50 *****
+2022-04-16 23:38:50,068 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:50,304 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:50,304 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:38:50,335 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:50 *****
+2022-04-16 23:38:50,335 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:50,775 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:50,775 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:38:50,807 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:50 *****
+2022-04-16 23:38:50,823 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:38:51,082 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:38:51,082 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:38:51,106 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:38:51 *****
+2022-04-16 23:39:16,356 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:16 *****
+2022-04-16 23:39:16,356 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:16,780 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:39:16,780 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:39:16,812 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:16 *****
+2022-04-16 23:39:16,812 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:17,188 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:39:17,188 - api.py[line:178] - INFO: 用例断言失败,预期值：20002,实际值：99999
+2022-04-16 23:39:17,219 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:17 *****
+2022-04-16 23:39:17,224 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:17,628 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:39:17,628 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:39:17,654 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:17 *****
+2022-04-16 23:39:33,821 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:33 *****
+2022-04-16 23:39:33,821 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:34,057 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:34 *****
+2022-04-16 23:39:34,057 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:34,326 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:34 *****
+2022-04-16 23:39:34,326 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:34,607 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:39:34,607 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:39:34,623 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:34 *****
+2022-04-16 23:39:57,076 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:57 *****
+2022-04-16 23:39:57,076 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:57,436 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:39:57,444 - api.py[line:178] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:39:57,468 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:57 *****
+2022-04-16 23:39:57,474 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:57,844 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:39:57,844 - api.py[line:164] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:39:57,878 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:57 *****
+2022-04-16 23:39:57,878 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:39:58,269 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:39:58,269 - api.py[line:164] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:39:58,285 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:39:58 *****
+2022-04-16 23:40:46,782 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:40:46 *****
+2022-04-16 23:40:46,782 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:40:46,939 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:40:46,939 - api.py[line:179] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:40:46,973 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:40:46 *****
+2022-04-16 23:40:46,980 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:40:47,127 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:40:47,127 - api.py[line:165] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:40:47,143 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:40:47 *****
+2022-04-16 23:40:47,143 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:40:47,331 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:40:47 *****
+2022-04-16 23:41:14,031 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:14 *****
+2022-04-16 23:41:14,046 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:14,267 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:14 *****
+2022-04-16 23:41:14,282 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:15,366 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:41:15,366 - api.py[line:166] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:41:15,382 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:15 *****
+2022-04-16 23:41:15,382 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:15,765 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:41:15,765 - api.py[line:180] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:41:15,790 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:15 *****
+2022-04-16 23:41:39,499 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:39 *****
+2022-04-16 23:41:39,508 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:39,838 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:41:39,838 - api.py[line:180] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:41:39,869 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:39 *****
+2022-04-16 23:41:39,869 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:40,246 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:41:40,246 - api.py[line:166] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:41:40,277 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:40 *****
+2022-04-16 23:41:40,277 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:41:40,466 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:41:40 *****
+2022-04-16 23:42:18,853 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:18 *****
+2022-04-16 23:42:18,853 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:19,089 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:19 *****
+2022-04-16 23:42:19,089 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:19,498 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:42:19,498 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:42:19,529 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:19 *****
+2022-04-16 23:42:19,529 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:19,985 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:42:19,985 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:42:20,001 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:20 *****
+2022-04-16 23:42:40,155 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:40 *****
+2022-04-16 23:42:40,155 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:40,280 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:40 *****
+2022-04-16 23:42:40,296 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:40,657 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:42:40,672 - api.py[line:170] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:42:40,704 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:40 *****
+2022-04-16 23:42:40,704 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:42:40,845 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:42:40 *****
+2022-04-16 23:46:31,671 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:46:31 *****
+2022-04-16 23:46:31,671 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:46:31,907 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:46:31 *****
+2022-04-16 23:46:31,923 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:46:32,300 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:46:32,300 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:46:32,334 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:46:32 *****
+2022-04-16 23:46:32,334 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:46:32,707 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:46:32,707 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:46:32,739 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:46:32 *****
+2022-04-16 23:48:32,641 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:48:32 *****
+2022-04-16 23:48:32,641 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:48:32,861 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:48:32 *****
+2022-04-16 23:48:32,861 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:48:33,237 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:48:33,237 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:48:33,253 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:48:33 *****
+2022-04-16 23:48:33,253 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:48:33,646 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:48:33,646 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:48:33,662 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:48:33 *****
+2022-04-16 23:52:37,435 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:52:37 *****
+2022-04-16 23:52:37,435 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:52:37,686 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:52:37 *****
+2022-04-16 23:52:37,702 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:52:38,064 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:52:38,064 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:52:38,079 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:52:38 *****
+2022-04-16 23:52:38,079 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:52:38,489 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:52:38,489 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:52:38,521 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:52:38 *****
+2022-04-16 23:53:45,180 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:53:45 *****
+2022-04-16 23:53:45,180 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:53:45,558 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:53:45,558 - api.py[line:184] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:53:45,589 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:53:45 *****
+2022-04-16 23:53:45,589 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:53:45,872 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:53:45,872 - api.py[line:170] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:53:45,888 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:53:45 *****
+2022-04-16 23:53:45,888 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:53:46,282 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:53:46,282 - api.py[line:184] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:53:46,298 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:53:46 *****
+2022-04-16 23:54:15,337 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:54:15 *****
+2022-04-16 23:54:15,337 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:54:15,762 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:54:15,777 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:54:15,803 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:54:15 *****
+2022-04-16 23:54:15,809 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:54:16,013 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:54:16,013 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:54:16,050 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:54:16 *****
+2022-04-16 23:54:16,050 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:54:16,375 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:54:16,390 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:54:16,407 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:54:16 *****
+2022-04-16 23:55:04,641 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:55:04 *****
+2022-04-16 23:55:04,641 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:55:05,029 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:55:05,030 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:55:05,049 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:55:05 *****
+2022-04-16 23:55:05,049 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:55:05,430 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:55:05,430 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:55:05,457 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:55:05 *****
+2022-04-16 23:55:05,457 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:55:05,835 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:55:05,850 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:55:05,866 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:55:05 *****
+2022-04-16 23:56:33,113 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:33 *****
+2022-04-16 23:56:33,113 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:33,490 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:56:33,505 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:56:33,531 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:33 *****
+2022-04-16 23:56:33,537 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:33,913 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:56:33,913 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:56:33,932 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:33 *****
+2022-04-16 23:56:33,932 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:34,321 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:56:34,321 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:56:34,353 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:34 *****
+2022-04-16 23:56:57,323 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:57 *****
+2022-04-16 23:56:57,323 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:57,763 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:56:57,763 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:56:57,795 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:57 *****
+2022-04-16 23:56:57,795 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:58,184 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:56:58,184 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:56:58,202 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:58 *****
+2022-04-16 23:56:58,202 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:56:58,585 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:56:58,585 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:56:58,610 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:56:58 *****
+2022-04-16 23:57:47,607 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:57:47 *****
+2022-04-16 23:57:47,607 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:57:48,062 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:57:48,062 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:57:48,081 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:57:48 *****
+2022-04-16 23:57:48,094 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:57:48,454 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:57:48,454 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:57:48,481 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:57:48 *****
+2022-04-16 23:57:48,481 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:57:48,862 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:57:48,862 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:57:48,894 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:57:48 *****
+2022-04-16 23:58:30,540 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:58:30 *****
+2022-04-16 23:58:30,540 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:58:30,963 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1266699057968001024","id":"1515358983643316224"}}
+2022-04-16 23:58:30,964 - api.py[line:169] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:58:30,979 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:58:30 *****
+2022-04-16 23:58:30,979 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:58:31,365 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:58:31,365 - api.py[line:169] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:58:31,388 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:58:31 *****
+2022-04-16 23:58:31,388 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:58:31,766 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+2022-04-16 23:58:31,781 - api.py[line:183] - INFO: 用例断言失败,预期值：10000,实际值：99999
+2022-04-16 23:58:31,796 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:58:31 *****
+2022-04-16 23:59:36,162 - test_all.py[line:33] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:59:36 *****
+2022-04-16 23:59:36,172 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:59:36,816 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:59:36,817 - api.py[line:186] - INFO: 用例断言失败,预期值：10000,实际值：20002
+2022-04-16 23:59:36,831 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:59:36 *****
+2022-04-16 23:59:36,847 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:59:37,208 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":false,"code":20002,"message":"新增员工失败","data":null}
+2022-04-16 23:59:37,208 - api.py[line:172] - INFO: 用例断言成功,预期值：20002,实际值：20002
+2022-04-16 23:59:37,239 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:59:37 *****
+2022-04-16 23:59:37,239 - test_all.py[line:48] - INFO: 正在执行添加员工用例
+2022-04-16 23:59:37,616 - test_all.py[line:54] - INFO: 用例执行成功，请求的结果为{"success":true,"code":10000,"message":"操作成功！","data":null}
+2022-04-16 23:59:37,616 - api.py[line:172] - INFO: 用例断言成功,预期值：10000,实际值：10000
+2022-04-16 23:59:37,647 - test_all.py[line:40] - INFO: ***** 开始执行测试用例，开始时间为：2022-04-16 23:59:37 *****

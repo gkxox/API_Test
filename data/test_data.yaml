@@ -1,0 +1,8 @@
+test01:
+  - desc: 新增员工
+    method: post
+    path: /api/sys/user
+    headers: {"Content-Type":"application/json;charset=UTF-8"}
+    data: {"username": "张三", "mobile": "12253663555", "timeOfEntry": "2020-07-09", "formOfEmployment": 1, "workNumber": "10086", "departmentName": "ww", "departmentId": "1266699057968001024", "correctionTime": "2020-07-30T16:00:00.000Z"}
+    text: code
+    expected: 20002
